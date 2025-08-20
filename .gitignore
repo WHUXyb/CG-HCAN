@@ -1,0 +1,148 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Environments
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Model checkpoints and results
+model/
+models/
+checkpoints/
+results/
+outputs/
+logs/
+wandb/
+tensorboard_logs/
+
+# Data directories (uncomment if you don't want to track data)
+# data/
+# datasets/
+
+# Large files
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+
+# Image and video files (if too large)
+*.tif
+*.tiff
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.mp4
+*.avi
+*.mov
+
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# CUDA cache
+.nv/
+
+# MLflow
+mlruns/
+
+# Hydra
+outputs/
+.hydra/
+
+# Lightning logs
+lightning_logs/
+
+# Weights & Biases
+wandb/
+
+# Local configuration files
+config_local.py
+*_local.py
+local_*.py
