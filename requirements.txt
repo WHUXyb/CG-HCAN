@@ -1,0 +1,75 @@
+# Core Deep Learning Framework
+torch>=1.8.0
+torchvision>=0.9.0
+torchaudio>=0.8.0
+
+# Computer Vision and Image Processing
+opencv-python>=4.5.0
+Pillow>=8.0.0
+
+# Scientific Computing
+numpy>=1.19.0
+scipy>=1.7.0
+
+# Data Visualization and Analysis
+matplotlib>=3.3.0
+seaborn>=0.11.0
+pandas>=1.3.0
+
+# Progress Bars and Utilities
+tqdm>=4.60.0
+pathlib2>=2.3.0
+
+# Segmentation Models
+segmentation-models-pytorch>=0.3.0
+
+# Image Augmentation
+albumentations>=1.0.0
+
+# CLIP for Vision-Language Features (Optional)
+# git+https://github.com/openai/CLIP.git
+
+# Scientific Color Maps
+scikit-image>=0.18.0
+scikit-learn>=1.0.0
+
+# Logging and Configuration
+tensorboard>=2.8.0
+wandb>=0.12.0
+
+# File Handling
+h5py>=3.1.0
+
+# Jupyter Notebook Support (Optional)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Development Tools (Optional)
+pytest>=6.0.0
+black>=21.0.0
+flake8>=3.9.0
+
+# Memory Profiling (Optional)
+psutil>=5.8.0
+
+# GDAL for Geospatial Data (Optional)
+# GDAL>=3.0.0  # Uncomment if working with .tif files directly
+
+# Additional Dependencies for Remote Sensing
+rasterio>=1.2.0  # For reading .tif files
+geopandas>=0.10.0  # For geospatial data processing
+
+# Model Optimization
+timm>=0.6.0  # For additional backbone models
+
+# Distributed Training Support
+accelerate>=0.16.0
+
+# Mixed Precision Training
+apex  # For additional AMP support (optional)
+
+# Version Lock for Reproducibility
+# Uncomment and modify versions as needed for your specific environment
+# torch==1.13.1+cu117
+# torchvision==0.14.1+cu117
+# torchaudio==0.13.1
