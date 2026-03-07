@@ -4,7 +4,7 @@
 
 The datasets used in this project can be downloaded from the following link:
 
-**Download Link**: https://pan.baidu.com/s/1f2Mv9YnrB05PHz6UMCR1Kg?pwd=0onh
+**Download Link**: https://pan.baidu.com/s/1f2Mv9YnrB05PHz6UMCR1Kg?pwd=0onh or https://drive.google.com/file/d/1r_cKLW8vrV-ZGSB6YBjCnYU_mV5utEbo/view?usp=drive_link, https://drive.google.com/file/d/1P6bk6AqfJkf5xXGIFKw-acd0kgBJSBQS/view?usp=drive_link
 
 **Access Code**: 0onh
 
@@ -54,3 +54,4 @@ data/
 
 For any issues with dataset access or structure, please contact:
 - **Email**: userxyb@whu.edu.cn
+
